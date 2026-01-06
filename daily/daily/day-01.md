@@ -13,3 +13,7 @@
 ## Mon engagement
 Je m’engage à travailler chaque jour pour progresser.
 
+## Ce que j’ai réussi
+- Installer Git
+- Cloner mon premier projet GitHub
+
